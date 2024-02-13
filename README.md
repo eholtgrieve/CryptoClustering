@@ -34,3 +34,12 @@ The first five rows of the PCA DataFrame should appear as follows:
     - Answer the following question:
        - What is the impact of using fewer features to cluster the data using K-Means?
     
+# Results
+- What is the total explained variance of the three principal components?:
+  - The total explained variance of the three principal components is 0.47862164 + 0.26608254 + 0.1684978 = 0.9132019782433117.
+- What is the best value for k when using the PCA data?:
+   - The best value for k when using the PCA data is 4.
+- Does it differ from the best k value found using the original data?:
+    - This value does not differ from the best k value found with the original data.
+- What is the impact of using fewer features to cluster the data using K-Means?:
+   - The impact of having fewer features is a postive one since it creates clusters that are better defined which leads to more accurate cluster results.
